@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCityASP", "SmartCityASP\SmartCityASP.csproj", "{577FCCD6-EE48-496F-871B-C72E49985FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{E50CD41D-1253-407E-8A9F-E9C202B30E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577FCCD6-EE48-496F-871B-C72E49985FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577FCCD6-EE48-496F-871B-C72E49985FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577FCCD6-EE48-496F-871B-C72E49985FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577FCCD6-EE48-496F-871B-C72E49985FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50CD41D-1253-407E-8A9F-E9C202B30E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50CD41D-1253-407E-8A9F-E9C202B30E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50CD41D-1253-407E-8A9F-E9C202B30E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50CD41D-1253-407E-8A9F-E9C202B30E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

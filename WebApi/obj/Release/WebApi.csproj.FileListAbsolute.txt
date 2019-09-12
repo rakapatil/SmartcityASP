@@ -1,0 +1,12 @@
+F:\Jitendra Demos\SmartCityASP\WebApi\bin\WebApi.dll
+F:\Jitendra Demos\SmartCityASP\WebApi\bin\WebApi.pdb
+F:\Jitendra Demos\SmartCityASP\WebApi\obj\Release\WebApi.dll
+F:\Jitendra Demos\SmartCityASP\WebApi\obj\Release\WebApi.pdb
+E:\Jitendra Demos\SmartCityASP\WebApi\bin\WebApi.dll.config
+E:\Jitendra Demos\SmartCityASP\WebApi\bin\WebApi.dll
+E:\Jitendra Demos\SmartCityASP\WebApi\bin\WebApi.pdb
+E:\Jitendra Demos\SmartCityASP\WebApi\obj\Release\WebApi.csprojAssemblyReference.cache
+E:\Jitendra Demos\SmartCityASP\WebApi\obj\Release\WebApi.csproj.CoreCompileInputs.cache
+E:\Jitendra Demos\SmartCityASP\WebApi\obj\Release\WebApi.csproj.CopyComplete
+E:\Jitendra Demos\SmartCityASP\WebApi\obj\Release\WebApi.dll
+E:\Jitendra Demos\SmartCityASP\WebApi\obj\Release\WebApi.pdb
